@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370125548746",
+    "project_id": "games-6e33c",
+    "storage_bucket": "games-6e33c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370125548746:android:157f0725e03b1634665833",
+        "android_client_info": {
+          "package_name": "com.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370125548746-pct7u520otqvhni5cqn6fhoqtg0h3j26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.todolist",
+            "certificate_hash": "b05ac5298af3554aa07fa3fdfaf22b9767273670"
+          }
+        },
+        {
+          "client_id": "370125548746-nm2b7sr3au1rnedhfle7elmuqd92uh57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qz_1hrF0BRELieKxaSM3B36B_7VgzNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370125548746-nm2b7sr3au1rnedhfle7elmuqd92uh57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
